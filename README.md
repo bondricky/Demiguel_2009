@@ -3,3 +3,5 @@ Basic Portfolio replication for DeMiguel, V., Garlappi, L., & Uppal, R. (2009). 
 
 
 Above you can find the data in csv form and python coding for replication of Demiguel 2009.
+
+Portfolio_Opt.ipynb - Portfolio replication for Equal-Weighted, Mean-Variance (In-sample and Out-of-sample), Min-Variance (Out-of-sample) portfolios.
