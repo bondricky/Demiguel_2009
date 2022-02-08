@@ -1,4 +1,5 @@
 # Demiguel_2009
-Basic Portfolio replication for Demiguel 2009
+Basic Portfolio replication for DeMiguel, V., Garlappi, L., & Uppal, R. (2009). Optimal versus naive diversification: How inefficient is the 1/N portfolio strategy?. The Review of Financial studies, 22(5), 1915-1953.
+
 
 Above you can find the data in csv form and python coding for replication of Demiguel 2009.
